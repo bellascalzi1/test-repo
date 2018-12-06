@@ -5,6 +5,10 @@ function sayhello(name)
     #(name == "Isabella") ? println("these violent delights have violent ends") : println("Ur name is shit")
 end
 
+function newstuff()
+    println("Hi this is a new commit. Bella actually did something right for once!")
+end
+
 
 
 
